@@ -102,7 +102,7 @@ WinEventAnalyzer/
 
 ## 许可证
 
-本项目采用 **MIT License**，版权所有 (c) 2026 **MiaoChengGu**，全文见 [`LICENSE`](LICENSE)。
+本项目采用 **MIT License**，版权所有 (c) 2026 **Miles**，全文见 [`LICENSE`](LICENSE)。
 
 ### 若使用 GitHub 网页添加许可证（可选）
 
